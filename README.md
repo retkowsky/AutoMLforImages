@@ -5,3 +5,7 @@ AutoML is an Azure Machine Learning feature, that empowers both professional and
 AutoML for Images is currently in Private Preview.
 
 https://github.com/swatig007/automlForImages/blob/main/README.md
+
+07/05/2021
+
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
