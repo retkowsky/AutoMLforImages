@@ -7,5 +7,5 @@ AutoML for Images is currently in Private Preview.
 https://github.com/swatig007/automlForImages/blob/main/README.md
 
 
-07/05/2021<br>
+07/05/2021<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
