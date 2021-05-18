@@ -17,7 +17,7 @@ Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/se
 
 Some snapshots:
 
-<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (1).jpg?raw=true" width=800>
-<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (2).jpg?raw=true" width=800>
-<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (3).jpg?raw=true" width=800>
-<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (4).jpg?raw=true" width=800>
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (1).jpg?raw=true" width=500>
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (2).jpg?raw=true" width=600>
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (3).jpg?raw=true" width=600>
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (4).jpg?raw=true" width=600>
