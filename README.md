@@ -11,7 +11,7 @@ Reference:
 https://github.com/swatig007/automlForImages/blob/main/README.md
 
 <br>
-18/05/2021<br><br>
+18-May-2021<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 <br><br>
 Some snapshots:
