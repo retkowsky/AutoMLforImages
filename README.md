@@ -14,3 +14,10 @@ https://github.com/swatig007/automlForImages/blob/main/README.md
 <br>
 17/05/2021<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+
+Some snapshots:
+
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automlimages%20(1).jpg?raw=true">
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automlimages%20(2).jpg?raw=true">
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automlimages%20(3).jpg?raw=true">
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automlimages%20(4).jpg?raw=true">
