@@ -4,6 +4,8 @@ AutoML is an Azure Machine Learning feature, that empowers both professional and
 
 AutoML for Images is currently in Private Preview.
 
+<img src="https://user-images.githubusercontent.com/81828223/115136544-3de1f100-9fd5-11eb-95f2-432db8624d13.png">
+
 Reference:
 https://github.com/swatig007/automlForImages/blob/main/README.md
 
