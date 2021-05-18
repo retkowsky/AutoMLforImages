@@ -15,7 +15,7 @@ https://github.com/swatig007/automlForImages/blob/main/README.md
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 <br>
 <br>
-Some snapshots:
+**Some snapshots:**
 <br><br>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (1).jpg?raw=true" width=500>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (2).jpg?raw=true" width=600>
