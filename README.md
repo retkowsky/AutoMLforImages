@@ -23,3 +23,4 @@ Some snapshots:
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (5).jpg?raw=true" width=600>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (6).jpg?raw=true" width=400>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/automl-images-snapshot (7).jpg?raw=true" width=400>
+
