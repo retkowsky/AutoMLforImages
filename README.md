@@ -7,7 +7,7 @@ Data scientists will be able to easily generate models trained on image data for
 
 AutoML for Images is currently in **Private Preview**.
 
-For supported model algorithms, hyperparameters and options please refers to:
+For supported model algorithms, hyperparameters and options please refer to:
 https://github.com/swatig007/automlForImages/blob/main/README.md
 
 <br>
