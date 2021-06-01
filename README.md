@@ -11,7 +11,7 @@ For supported model algorithms, hyperparameters and options please refer to:
 https://github.com/swatig007/automlForImages/blob/main/README.md
 
 <br>
-25-May-2021<br><br>
+01-Jun-2021<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 <br><br>
 Some snapshots:
@@ -28,5 +28,5 @@ Some snapshots:
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capturequalitycontrol.jpg?raw=true" width=600>
 
 
-Note:
-All these Python notebooks were made for demo purposes. They were not designed for production usage.
+**Note:
+All these Python notebooks were made for demo purposes. They were not designed for production usage.**
