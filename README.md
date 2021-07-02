@@ -28,7 +28,7 @@ Some snapshots:
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/exempledrinks.jpg?raw=true" width=600>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202021-05-26%20231136.jpg?raw=true" width=600>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capturequalitycontrol.jpg?raw=true" width=600>
-<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capture_Fire.jpg?raw=true>
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capture_Fire.jpg?raw=true">
 
 **Note:
 All these Python notebooks were made for demo purposes. They were not designed for production usage.**
