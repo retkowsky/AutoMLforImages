@@ -13,7 +13,7 @@ For supported model algorithms, hyperparameters and options please refer to:
 https://github.com/swatig007/automlForImages/blob/main/README.md
 
 <br>
-28-Jun-2021<br><br>
+07-Oct-2021<br><br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
 <br><br>
 Some snapshots:
@@ -30,6 +30,8 @@ Some snapshots:
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capturequalitycontrol.jpg?raw=true" width=600>
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capture_Fire.jpg?raw=true">
 <img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/capturelights.jpg?raw=true">
+<img src="https://github.com/retkowsky/AutoMLforImages/blob/main/images/parkinson.png?raw=true">
+
 
 **Note:
 All these Python notebooks were made for demo purposes. They were not designed for production usage.**
