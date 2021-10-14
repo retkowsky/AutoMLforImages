@@ -9,8 +9,8 @@ Data scientists will be able to easily generate models trained on image data for
 
 AutoML for Images is currently in **Public Preview**.
 
-For supported model algorithms, hyperparameters and options please refer to:
-https://github.com/swatig007/automlForImages/blob/main/README.md
+Documentation:
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-image-models
 
 <br>
 14-Oct-2021<br><br>
