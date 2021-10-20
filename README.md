@@ -34,4 +34,9 @@ Some snapshots:
 
 
 **Note:
-All these Python notebooks were made for demo purposes. They were not designed for production usage.**
+All these Python notebooks were made for demo purposes. They were not designed for production usage.
+
+Important: This feature is currently in public preview. 
+This preview version is provided without a service-level agreement. Certain features might not be supported or might have constrained capabilities. 
+For more information, see Supplemental Terms of Use for Microsoft Azure Previews.
+
